@@ -1,52 +1,35 @@
-# About {{ Name }}
+# About guideline-screenplay-pattern
 
-ERNI Academy StarterKit, PoC, or Gidelines. This is an about description of your repository.
+This repository is the code described at eBook [TODO. Add ebook reference]
+In this repo you can found a light implementation of screenplay pattern and a fast comparative with LinearScript and PageObjectModel.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Built With
+Love. And...
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-- [Tools A](https://example.com)
-- [Framework B](https://example.com)
-- [Project C](https://example.com)
+- [.Net8](https://example.com)
+- [Playwright](https://example.com)
+- [MSTest](https://example.com)
 
 ## Features
 
-- Be awesome
-- Make things faster
+- Entity abstraction definitions of screenplay pattern
+- Basic Base clases implementation of screenplay entitities
+- Simple example of linearScript -> POM -> Screenplay 
+
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+Plug&Play.
+ - Clone the repository
+ - Build the solution
+ - Debug the test cases to understand its flow
+ - Happy Testing
 
-## Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
-## Installation
-
-Installation instructions {{ Name }} by running:
-
-1. Clone the repo
-
-   ```sh
-   git clone https://github.com/ERNI-Academy/Project-Name.git
-   ```
-
-2. Install packages
-
-    ```sh
-    npm install
-    ```
-
-3. Configure
-
-    ```JS
-    const API_KEY = 'ENTER YOUR API';
-    ```
+For a deep understanding I recommend to read the book attached
 
 ## Contributing
 
