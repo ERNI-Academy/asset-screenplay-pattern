@@ -9,9 +9,10 @@ In this repo you can found a light implementation of screenplay pattern and a fa
 ## Built With
 Love. And...
 
-- [.Net8](https://example.com)
-- [Playwright](https://example.com)
-- [MSTest](https://example.com)
+- [.Net8](https://dotnet.microsoft.com/es-es/download/dotnet/8.0)
+- [Playwright](https://playwright.dev/)
+- [MSTest](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
+- [Visual Studio 2022 Community edition](https://visualstudio.microsoft.com/es/vs/community/)
 
 ## Features
 
